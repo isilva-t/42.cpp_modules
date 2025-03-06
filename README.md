@@ -2,7 +2,7 @@
 
 C++ programming modules from 42 Porto curriculum, covering fundamental to advanced concepts using C++98 standard.
 
-![cpp](./cpp.jpg)
+![cpp](./modules/cpp.jpg)
 
 ## About
 
@@ -45,7 +45,7 @@ STL algorithms, performance analysis, Ford-Johnson merge-insert sort
 Each exercise can be compiled using the provided Makefile:
 
 ```bash
-cd cpp0X/exXX
+cd modules/cpp0X/exXX
 make
 ```
 
